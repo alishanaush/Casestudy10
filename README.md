@@ -10,7 +10,7 @@ Breakdown of the Problem Statement:
 
 -classification problem
 
-=The target value will be class.
+-The target value will be class.
 
 Aim of the Notebook:
 
