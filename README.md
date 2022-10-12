@@ -6,11 +6,11 @@ This dataset includes descriptions of hypothetical samples corresponding to 23 s
 
 Breakdown of the Problem Statement:
 
-Supervised machine learning problem.
+-Supervised machine learning problem.
 
-classification problem
+-classification problem
 
-The target value will be class.
+=The target value will be class.
 
 Aim of the Notebook:
 
